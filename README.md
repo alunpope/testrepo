@@ -1,2 +1,2 @@
 # testrepo
-Studio connection testing
+RStudio connection testing
